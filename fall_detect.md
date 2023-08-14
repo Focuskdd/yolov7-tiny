@@ -236,6 +236,6 @@
     <source id="mp4" src="result.mp4" type="video/mp4">
 </video>
 
-####实时检测，参考result.mp4
+#### 实时检测，参考result.mp4
 #### 精度满足实时检测的需求，具有良好的跌倒检测效果。
 
